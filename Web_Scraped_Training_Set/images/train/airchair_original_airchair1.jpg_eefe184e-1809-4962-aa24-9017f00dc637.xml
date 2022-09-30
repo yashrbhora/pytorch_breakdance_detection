@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>airchair_original_airchair1.jpg_eefe184e-1809-4962-aa24-9017f00dc637.jpg</filename>
+	<path>D:\HDD Files\Desktop\Power Detection\Web Scraped Training Set\images\downloadedimages\airchair\output\airchair_original_airchair1.jpg_eefe184e-1809-4962-aa24-9017f00dc637.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>16</ymin>
+			<xmax>118</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>airchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>53</ymin>
+			<xmax>215</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>
